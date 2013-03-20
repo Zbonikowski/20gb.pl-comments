@@ -14,3 +14,5 @@ You can add script into a div with style
         <script src='http://jscomments.20gb.pl' type='text/javascript'></script>
 </div>
 `````
+
+for a newest version, use script from jscomments.20gb.pl
