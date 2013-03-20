@@ -9,6 +9,8 @@ How to add on a website
 `````
 
 You can add script into a div with style
+`````html
 <div style="width:500px;margin-left: auto;margin-right: auto">
         <script src='http://jscomments.20gb.pl' type='text/javascript'></script>
 </div>
+`````
